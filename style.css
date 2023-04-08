@@ -23,7 +23,7 @@ a{
 .left{
     width: 50%;
     height: 72px;
-    
+    margin-left: -300px;
     float: left;
 }
 .right{
@@ -32,6 +32,7 @@ a{
     
     float: left;
     display: flex;
+    margin-left: 220px;
 }
 @keyframes anim2
 {
@@ -82,7 +83,7 @@ a{
     height: 50px;
     
     
-    margin-left: 49px;
+    margin-left: 78px;
     margin-top: 31px;
     
     text-align: center;
@@ -107,7 +108,7 @@ a{
     
     font-size: 247px;
     font-weight: bold;
-    padding-left: 250px;
+    padding-left: 205px;
 padding-top: 100px;
 
 color: #45A29E;
